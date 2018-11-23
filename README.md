@@ -29,8 +29,9 @@ mdp:
 - HTML
 - SASS
 - JS
-- Bootstrap avec installation du package pour le développement (dossier Vendor)
+- Bootstrap avec installation du package pour le développement (dans les dossiers STYLE et SCRIPT)
 - PHP (pour les include header et footer simplement)
+
 
 2/ Style :
 
