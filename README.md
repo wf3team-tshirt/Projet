@@ -9,7 +9,7 @@ Pour que tout le monde ait accès au master et puisse accepter les Pull Resquest
 
 id :  wfstshirt@gmail.com
 
-mdp : milliardaire2018
+mdp : *****
 
 
 - RESEAUX SOCIAUX (création d'une page Facebook et Instagram)
