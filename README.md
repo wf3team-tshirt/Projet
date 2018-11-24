@@ -76,7 +76,7 @@ mdp:
 
     - Background général : #fffff (blanc) / #eaeaea (gris clair)
     - Titre : #414042 (gris anthracite) + #00a2a5 (bleue)
-    - Texte général : 16px
+    - Texte général : #7a7c7f (gris)
     - Bouton - Texte : #0ddee2 (bleu ciel)
     - Bouton - Background : #0ddee2 (bleu ciel)
     - HEADER - Navbar : #145a6b (bleu marine)
