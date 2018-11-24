@@ -14,9 +14,10 @@ mdp : milliardaire2018
 
 - RESEAUX SOCIAUX (création d'une page Facebook et Instagram)
 
-id: ...
+id: 
 
-mdp: ...
+mdp:
+
 
 
 
@@ -93,7 +94,6 @@ mdp: ...
     - FOOTER - Textes liens : #7a7c7f (gris)
     - FOOTER - copyright : #7a7c7f (gris) 
 
-
 3/ Commentaires, Balises : 
 
 - Commentaires en français
@@ -110,7 +110,5 @@ mdp: ...
 - taille (S, M, L, XL)
 - prix
 - users (nom, prénom, adresse, email)
-
-
 
 
